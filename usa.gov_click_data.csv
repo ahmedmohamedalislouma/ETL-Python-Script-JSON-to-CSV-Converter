@@ -1,0 +1,13 @@
+,web_browser,operating_sys,from_url,to_url,city,time_zone,time_in,time_out,longitude,latitude
+0,Mozilla/5.0,Windows NT 6.1; WOW64,www.facebook.com,www.ncbi.nlm.nih.gov,Danvers,America/New_York,2012-04-01 19:03:50,2012-04-01 19:03:57,42.576698,-70.954903
+1,GoogleMaps/RochesterNY,Unspecified,www.AwareMap.com,www.monroecounty.gov,Provo,America/Denver,2012-03-16 18:40:49,2011-06-16 22:13:13,40.218102,-111.613297
+2,Mozilla/4.0,Windows NT 6.1; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3,t.co,boxer.senate.gov,Washington,America/New_York,2012-04-02 22:50:30,2012-04-02 22:50:35,38.9007,-77.043098
+3,Mozilla/5.0,Macintosh; Intel Mac OS X 10_6_8,Unspecified,apod.nasa.gov,Braz,America/Sao_Paulo,2012-04-04 02:37:10,2012-04-04 02:37:24,-23.549999,-46.616699
+4,Mozilla/5.0,Windows NT 6.1; WOW64,www.shrewsbury-ma.gov,www.shrewsbury-ma.gov,Shrewsbury,America/New_York,2012-04-05 06:23:50,2012-04-05 06:23:59,42.286499,-71.714699
+5,Mozilla/5.0,Windows NT 6.1; WOW64,www.shrewsbury-ma.gov,www.shrewsbury-ma.gov,Shrewsbury,America/New_York,2012-04-06 10:10:30,2012-04-06 10:10:48,42.286499,-71.714699
+6,Mozilla/5.0,Windows NT 5.1,plus.url.google.com,www.nasa.gov,Luban,Europe/Warsaw,2012-04-07 13:57:10,2012-04-07 13:57:20,51.116699,15.2833
+7,Mozilla/5.0,Windows NT 6.1; rv:2.0.1,www.facebook.com,www.nasa.gov,Unspecified,Unspecified,2012-04-09 21:30:36,Unspecified,Unspecified,Unspecified
+8,Opera/9.80,Ubuntu 14.04.6; Linux zbov; U; en,www.facebook.com,www.nasa.gov,Unspecified,Unspecified,2012-04-08 17:43:50,2012-04-08 17:44:02,Unspecified,Unspecified
+9,Mozilla/5.0,Windows NT 6.1; WOW64,t.co,apod.nasa.gov,Unspecified,Unspecified,2012-04-09 21:30:30,2012-04-09 21:30:40,Unspecified,Unspecified
+10,Mozilla/5.0,Windows NT 6.1; WOW64; rv:10.0.2,Unspecified,www.nysdot.gov,Seattle,America/Los_Angeles,2012-04-11 01:17:10,2012-04-11 01:17:20,47.5951,-122.332603
+11,Mozilla/5.0,Macintosh; U; Intel Mac OS X 10.4; en-US; rv:1.9.2.27,t.co,oversight.house.gov,Washington,America/New_York,2012-04-12 05:04:00,2012-04-12 05:04:03,38.937599,-77.092796
