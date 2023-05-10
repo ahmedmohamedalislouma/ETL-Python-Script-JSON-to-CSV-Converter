@@ -1,7 +1,7 @@
 # ETL-Python-Script-JSON-to-CSV-Converter
-# Bitly URL Data Converter
+# US government URL Data Converter
 
-This Python script converts JSON files containing Bitly URL data into separate CSV files, each representing a single JSON file. The script transforms the JSON data into a structured DataFrame and applies various data manipulations to generate the desired CSV output. The resulting CSV files contain information about web browsers, operating systems, URLs, cities, geographic coordinates, time zones, and timestamps.
+This Python script converts JSON files containing US government URL data into separate CSV files, each representing a single JSON file. The script transforms the JSON data into a structured DataFrame and applies various data manipulations to generate the desired CSV output. The resulting CSV files contain information about web browsers, operating systems, URLs, cities, geographic coordinates, time zones, and timestamps.
 
 ## Problem Description
 
@@ -17,7 +17,7 @@ In 2012, the URL shortening service Bitly partnered with the US government websi
 1. Navigate to the project directory:
 
    ```
-   cd bitly-url-data-converter
+   cd us-url-data-converter
    ```
 
 2. Run the script with the following command:
